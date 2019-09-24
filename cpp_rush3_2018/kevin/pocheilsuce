@@ -1,0 +1,1 @@
+g++ -c main1.cpp SfmlWindow.cpp Modules.cpp; g++ main1.o SfmlWindow.o Modules.o -o MyGKrellm -lsfml-graphics -lsfml-window -lsfml-system
